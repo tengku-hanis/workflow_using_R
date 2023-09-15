@@ -2,6 +2,7 @@
 # Tengku Muhammad Hanis Mokhtar
 # September 19, 2023
 
+# OPEN hints if needed: https://tengku-hanis.github.io/hint_workflow_using_R/hint.html
 
 # Packages ----------------------------------------------------------------
 

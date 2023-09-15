@@ -8,9 +8,9 @@ Contents:
 1. Slides - Slides.pdf
 2. R script:
     - Hands-on in R - basic_ggplot.R
-    - Exercise - exercise.R
+    - Exercise* - exercise.R
     - Answer - answer.R
-3. Html file:
-    - Hints for the exercise - hint.html
+
+__*hint for the exercise can be assessed at https://tengku-hanis.github.io/hint_workflow_using_R/hint.html__
 
 

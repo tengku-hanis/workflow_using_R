@@ -6,7 +6,10 @@ Title:
 2. Data visualisation with ggplot2
 
 Contents:
-1. Slides
-2. R script
+1. Slides - Slides.pdf
+2. R script:
+  - Hands-on in R - basic_ggplot.R
+  - Exercise - exercise.R
+  - Answer - answer.R
 
 

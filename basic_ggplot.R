@@ -143,6 +143,8 @@ PimaIndiansDiabetes2 %>%
 
 ## gganimate ---
 library(gganimate)
+library(gifski)
+library(png)
 
 PimaIndiansDiabetes2 %>% 
   mutate(diabetes = fct_recode(diabetes, Negative = "neg", Positive = "pos")) %>% 

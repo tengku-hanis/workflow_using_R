@@ -12,6 +12,6 @@ Contents:
 
 Slides are available at https://drive.google.com/file/d/1gz0HmGgrZIKwD8pJQeePFrHkq35RErF2/view?usp=sharing
 
-__*hint for the exercise can be assessed at https://tengku-hanis.github.io/hint_workflow_using_R/hint.html__
+_*hint for the exercise can be assessed at https://tengku-hanis.github.io/hint_workflow_using_R/hint.html_
 
 

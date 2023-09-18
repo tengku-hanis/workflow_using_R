@@ -10,7 +10,7 @@ Contents:
   2. Exercise* - exercise.R
   3. Answer - answer.R
 
-Slides are available at https://drive.google.com/file/d/1gz0HmGgrZIKwD8pJQeePFrHkq35RErF2/view?usp=sharing
+Slides are available at https://drive.google.com/file/d/1hJiAnT0EZGuSOleDUxR0NXyq9bPHVTCi/view?usp=drive_link
 
 _*hint for the exercise can be assessed at https://tengku-hanis.github.io/hint_workflow_using_R/hint.html_
 
